@@ -2,5 +2,5 @@
 <div style="text-align:center">
     <h1>Marvellous Infosystems</h1>
     <input class="a" type="text" contenteditable="false" value="educating for better tommarow" >
-    <app-marvellous-comp></app-marvellous-comp>
+    
 </div>
